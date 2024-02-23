@@ -1,0 +1,11 @@
+git clone link
+ls
+cd test
+clear
+ls
+git status(2)
+git index.html
+git commit -m'first vwesion'
+git log
+git push
+
